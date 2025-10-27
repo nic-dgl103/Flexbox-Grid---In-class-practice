@@ -1,0 +1,23 @@
+/*-------- GENERAL STYLES ---------*/
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  margin: 0
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/*-------- COLOURS ---------*/
+/* light grey: #F3F3F3;
+pale grey: #D8D8D8
+medium grey: #9B9B9B;
+dark grey: #4A4A4A;
+black: #000000; */
